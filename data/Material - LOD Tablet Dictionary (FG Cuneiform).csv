@@ -1,0 +1,115 @@
+Material,FactGrid_Label,FactGrid_Q
+?,,
+bitumen,,
+bone: bone,Bone,Q512051
+bone: ivory,Bone,Q512051
+bone: ivory ?,Bone,Q512051
+bone: shell,Bone,Q512051
+clay,Clay,Q471153
+Clay,Clay,Q471153
+clay ?,Clay,Q471153
+clay; metal: bronze; stone: steatite,Clay,Q471153
+clay: faéence,Clay,Q471153
+clay: terra-cotta,Clay,Q471153
+clay: terracotta,Clay,Q471153
+composite,,
+faience,,
+glass,,
+Glass,,
+gypsum,Gypsum,Q146565
+gypsum: plaster,Gypsum,Q146565
+metal,Metal,Q102057
+metal: bronze,Bronze,Q512050
+metal: bronze ?,Bronze,Q512050
+metal: bronze; stone,Bronze,Q512050
+metal: bronze; stone: steatite,Bronze,Q512050
+metal: copper,Copper,Q102059
+metal: copper alloy,Copper,Q102059
+metal: gold,Gold,Q102068
+metal: iron,Iron,Q512047
+metal: lead,Lead,Q512048
+metal: silver,Silver,Q102025
+shell,Shell,Q512049
+shell: gastropod (Charonia tritonis?),Shell,Q512049
+silver,Silver,Q102025
+stone,Stone,Q254907
+Stone,Stone,Q254907
+stone ?,Stone,Q254907
+stone (newimages),Stone,Q254907
+stone: (black),Stone,Q254907
+stone: (brown),Stone,Q254907
+stone: agate,Stone,Q254907
+stone: Agate,Stone,Q254907
+stone: agate ?,Stone,Q254907
+"stone: agate, banded",Stone,Q254907
+stone: alabaster,Stone,Q254907
+stone: alabaster ?,Stone,Q254907
+stone: amethyst,Stone,Q254907
+stone: aragonite,Stone,Q254907
+stone: basalt,Stone,Q254907
+stone: basalt ?,Stone,Q254907
+stone: black,Stone,Q254907
+stone: breccia,Stone,Q254907
+stone: calcedony,Stone,Q254907
+stone: calcite,Stone,Q254907
+stone: calcite/ dolomite,Stone,Q254907
+stone: carnelian,Stone,Q254907
+stone: carnelian ?,Stone,Q254907
+stone: chakcedony,Stone,Q254907
+stone: chalcedon,Stone,Q254907
+stone: chalcedony,Stone,Q254907
+stone: chlorite,Stone,Q254907
+stone: cornaline,Stone,Q254907
+stone: crystal,Stone,Q254907
+stone: diorite,Stone,Q254907
+stone: diorite ?,Stone,Q254907
+stone: dolerite,Stone,Q254907
+"stone: dolerite, quartz",Stone,Q254907
+stone: dolomite,Stone,Q254907
+stone: feldspar,Stone,Q254907
+stone: felsite,Stone,Q254907
+stone: geothite,Stone,Q254907
+stone: gneiss,Stone,Q254907
+stone: granite,Stone,Q254907
+stone: greenstone,Stone,Q254907
+stone: gypsum,Stone,Q254907
+stone: gypsum ?,Stone,Q254907
+stone: haematite,Stone,Q254907
+stone: hematite,Stone,Q254907
+stone: hematite ?,Stone,Q254907
+stone: hornblende,Stone,Q254907
+stone: iron oxide,Stone,Q254907
+stone: jade,Stone,Q254907
+stone: jade-like,Stone,Q254907
+stone: jadeite,Stone,Q254907
+stone: jasper,Stone,Q254907
+stone: lapis lazuli,Stone,Q254907
+stone: lava,Stone,Q254907
+stone: limestone,Stone,Q254907
+stone: limestone ?,Stone,Q254907
+stone: limonite,Stone,Q254907
+stone: magnesite,Stone,Q254907
+stone: magnetite,Stone,Q254907
+stone: malachite,Stone,Q254907
+stone: marble,Stone,Q254907
+stone: marble ?,Stone,Q254907
+stone: nephrite,Stone,Q254907
+stone: obsidian,Stone,Q254907
+stone: onyx,Stone,Q254907
+stone: quartz,Stone,Q254907
+stone: quartz ?,Stone,Q254907
+stone: quartzite,Stone,Q254907
+stone: rock crystal,Stone,Q254907
+stone: sandstone,Stone,Q254907
+stone: sardonyx,Stone,Q254907
+stone: schist,Stone,Q254907
+stone: serpentine,Stone,Q254907
+stone: serpentine or black steatite,Stone,Q254907
+stone: shell,Stone,Q254907
+stone: slate,Stone,Q254907
+stone: soapstone,Stone,Q254907
+stone: steatite,Stone,Q254907
+stone: travertine,Stone,Q254907
+stone: tuff,Stone,Q254907
+stone: volcanic,Stone,Q254907
+stone:chlorite,Stone,Q254907
