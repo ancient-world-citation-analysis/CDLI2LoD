@@ -10,6 +10,6 @@ When referencing, we ignored the rows without a QID (i.e., FG_item). We also did
 
 ## 2. Material:
 
-The material reference csv file is taken from the LOD Tablet Dictionary's language reference page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814). 
+The material reference csv file is taken from the LOD Tablet Dictionary's language reference page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814)). 
 
 The last download is made at _April 23rd, 2023_.
