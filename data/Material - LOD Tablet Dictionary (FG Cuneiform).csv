@@ -6,8 +6,6 @@ bone: ivory,Bone,Q512051
 bone: ivory ?,Bone,Q512051
 bone: shell,Bone,Q512051
 clay,Clay,Q471153
-Clay,Clay,Q471153
-clay ?,Clay,Q471153
 clay; metal: bronze; stone: steatite,Clay,Q471153
 clay: faéence,Clay,Q471153
 clay: terra-cotta,Clay,Q471153
@@ -15,12 +13,10 @@ clay: terracotta,Clay,Q471153
 composite,,
 faience,,
 glass,,
-Glass,,
 gypsum,Gypsum,Q146565
 gypsum: plaster,Gypsum,Q146565
 metal,Metal,Q102057
 metal: bronze,Bronze,Q512050
-metal: bronze ?,Bronze,Q512050
 metal: bronze; stone,Bronze,Q512050
 metal: bronze; stone: steatite,Bronze,Q512050
 metal: copper,Copper,Q102059
@@ -33,8 +29,6 @@ shell,Shell,Q512049
 shell: gastropod (Charonia tritonis?),Shell,Q512049
 silver,Silver,Q102025
 stone,Stone,Q254907
-Stone,Stone,Q254907
-stone ?,Stone,Q254907
 stone (newimages),Stone,Q254907
 stone: (black),Stone,Q254907
 stone: (brown),Stone,Q254907
@@ -112,4 +106,4 @@ stone: steatite,Stone,Q254907
 stone: travertine,Stone,Q254907
 stone: tuff,Stone,Q254907
 stone: volcanic,Stone,Q254907
-stone:chlorite,Stone,Q254907
+stone: chlorite,Stone,Q254907
