@@ -18,6 +18,17 @@ The last download is made at _April 23rd, 2023_.
 
 ## 3. Period:
 
-The mperiod reference csv file is taken from the LOD Tablet Dictionary's period page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814](https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)). 
+The period reference csv file is taken from the LOD Tablet Dictionary's period page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814](https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)). 
 
 The last download is made at _June 23rd, 2023_.
+
+When referencing, we only used `factgrid_qid` and `wikidata_qid`.
+
+
+## 4. Collection / Museum:
+
+The collection / museum reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1BdRndVP3JFGWAtv1WTlXiYsGBuCADHnblYeoihfQcLI/edit#gid=517999597). 
+
+The last download is made at _July 3rd, 2023_.
+
+When referencing, we took all but the last two green columns. That is, we used `factgrid_id`, `collection`, `wikidata_id`, `collection_name`, `collection_name_native`, `name_native_iso`, `collection_url`, `wiki_url_eng`, and `wiki_url_native`.
