@@ -1,0 +1,66 @@
+cdli_genre,P121,P608,,P155,July_2023
+cdli_genre,Typeofwork,FG_qid_2,FG_qid_3,P155,current_count
+Administrative,Q394396,,,,10k+
+Astronomical,Q390194,Q246207,,,0
+Historical,Q39130,,,,55
+Legal,Q388465,,,,10k+
+Letter,Q10510,,,,10k+
+Lexical,Q537054,,,,8273
+Literary,Q245823,,,,10k+
+Mathematical,Q146582,,,,2098
+Medical,Q76112,,,,1054
+Monumental,Q537039,,,,0
+Omen,Q246074,,,,0
+Prayer/Incantation,Q10315,Q246184,,,0
+Prayer,Q10315,,,,1194
+Incantation,Q246184,,,,281
+Private,,,,,0
+Ritual,Q77545,,,,1578
+Royal,Q537039,,,,3
+School,Q246098,,,,0
+Scientific,Q245824,,,,8538
+Votive,Q537055,,,,17
+administative,Q394396,,,,0
+Administrative ?,Q394396,,,Q22757,0
+Administrative Record,Q394396,,,,
+Administrative?,Q394396,,,Q22757,
+Astronomical ?,Q390194,Q246074,,Q22757,
+"Astronomical, Omen",Q390194,Q246174,,,
+Legal ?,Q388465,,,Q22757,
+Legal?,Q388465,,,,
+Letter ?,Q10510,,,Q22757,
+Letter?,Q10510,,,,
+Lexical,Q537054,,,,
+Lexical ?,Q537054,,,Q22757,
+Lexical; Literary,Q537054,Q245823,,,
+Lexical; Literary; Mathematical,Q537054,Q245823,Q146582,,
+Lexical; Mathematical,Q537054,Q146582,,,
+Lexical; School,Q537054,,,,
+Literary ?,Q245823,,,Q22757,
+Literary; Administrative,Q245823,Q394396,,,
+Literary; Letter,Q245823,Q10510,,,
+Literary; Lexical,Q245823,,,,
+Literary; Mathematical,Q245823,Q146582,,,
+Mathematical,Q146582,,,,
+Mathematical ?,Q146582,,,Q22757,
+Omen ?,Q246074,,,Q22757,
+Omens,Q246074,,,,
+Omens,Q246074,,,,
+Pottery (seal),Q512065,,,,
+Prayer/Incantation,Q10315,Q246184,,,
+Prayer/Incantation ?,Q10315,Q246184,,Q22757,
+Private/Votive,Q537055,,,,
+Private/Votive ?,Q537055,,,Q22757,
+Ritual,Q77545,Q246074,,,
+Ritual ?,Q77545,Q246074,,Q22757,
+Royal/Monumental,Q537039,,,,
+Royal/Monumental ?,Q537039,,,Q22757,
+Royal/Monumental; Literary,Q537039,Q245823,,,
+Royal/Votive,Q537039,,,,
+School ?,Q246098,,,Q22757,
+School; Literary,Q246098,Q245823,,,
+School?,Q246098,,,Q22757,
+Scientific ?,Q245824,,,Q22757,
+Votive,Q537055,,,,
+uncertain,,,,,
+Other (see subgenre),,,,,
