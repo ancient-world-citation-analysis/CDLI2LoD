@@ -32,3 +32,11 @@ The collection / museum reference csv file is taken from this [link](https://doc
 The last download is made at _July 3rd, 2023_.
 
 When referencing, we took all but the last two green columns. That is, we used `factgrid_id`, `collection`, `wikidata_id`, `collection_name`, `collection_name_native`, `name_native_iso`, `collection_url`, `wiki_url_eng`, and `wiki_url_native`.
+
+
+## 5. Genre:
+
+The genre reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1XE6nSPdUXy-_CFTJ-xh8rDrsHNV5LAMw2SfSnh1L66E/edit#gid=1511149082). 
+
+The last download is made at _July 13th, 2023_.
+
