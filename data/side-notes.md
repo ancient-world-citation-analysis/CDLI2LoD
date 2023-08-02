@@ -40,3 +40,10 @@ The genre reference csv file is taken from this [link](https://docs.google.com/s
 
 The last download is made at _July 13th, 2023_.
 
+
+## 6. Ruler:
+
+The ruler reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1ncbey4rVBJgTFz9W9MS9auB4IxbwWxxiBxN8dbL-VUM/edit#gid=578731252), which is exported from the chronology jupyter notebook.
+
+The last download is made at _August 2nd, 2023_.
+
