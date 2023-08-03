@@ -2,7 +2,7 @@
 
 The language reference csv file is taken from the LOD Tablet Dictionary's language reference page ([link to google sheet](https://docs.google.com/spreadsheets/d/1E8myV7OwsUFkMNdmaL06jlJPFslhAmfOuIHRaA4syyg/edit#gid=415521005)). 
 
-The last download is made at _April 12th, 2023_.
+The last download is made on _April 12th, 2023_.
 
 When referencing, we ignored the rows without a QID (i.e., FG_item). We also did not use the `Sequence` column.
 
@@ -12,7 +12,7 @@ When referencing, we ignored the rows without a QID (i.e., FG_item). We also did
 
 The material reference csv file is taken from the LOD Tablet Dictionary's material reference page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814)). 
 
-The last download is made at _April 23rd, 2023_.
+The last download is made on _April 23rd, 2023_.
 
 
 
@@ -20,16 +20,18 @@ The last download is made at _April 23rd, 2023_.
 
 The period reference csv file is taken from the LOD Tablet Dictionary's period page ([link to google sheet](https://docs.google.com/spreadsheets/d/1CJf-7-2oqWS8Q42Pzt9tHVZpnKC1Ksti-Eth8bSuRoE/edit#gid=1048723814](https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)https://drive.google.com/file/d/1GCYneZi-SVA49iRfVMP_mH-0LFLRpIaQ/view)). 
 
-The last download is made at _June 23rd, 2023_.
+The last download is made on _June 23rd, 2023_.
 
 When referencing, we only used `factgrid_qid` and `wikidata_qid`.
+
+We also explored the data and dealt with some edge cases (e.g., typos) according to [this csv](https://docs.google.com/spreadsheets/d/1ttueqlFrtNE4eaZDdDq80Ksc4Wg8pwxXeS8eCiiHjmQ/edit#gid=714968975).
 
 
 ## 4. Collection / Museum:
 
 The collection / museum reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1BdRndVP3JFGWAtv1WTlXiYsGBuCADHnblYeoihfQcLI/edit#gid=517999597). 
 
-The last download is made at _July 3rd, 2023_.
+The last download is made on _July 3rd, 2023_.
 
 When referencing, we took all but the last two green columns. That is, we used `factgrid_id`, `collection`, `wikidata_id`, `collection_name`, `collection_name_native`, `name_native_iso`, `collection_url`, `wiki_url_eng`, and `wiki_url_native`.
 
@@ -38,12 +40,14 @@ When referencing, we took all but the last two green columns. That is, we used `
 
 The genre reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1XE6nSPdUXy-_CFTJ-xh8rDrsHNV5LAMw2SfSnh1L66E/edit#gid=1511149082). 
 
-The last download is made at _July 13th, 2023_.
+The last download is made on _July 13th, 2023_.
 
 
 ## 6. Ruler:
 
 The ruler reference csv file is taken from this [link](https://docs.google.com/spreadsheets/d/1ncbey4rVBJgTFz9W9MS9auB4IxbwWxxiBxN8dbL-VUM/edit#gid=578731252), which is exported from the chronology jupyter notebook.
 
-The last download is made at _August 2nd, 2023_.
+The last download is made on _August 2nd, 2023_.
+
+The `ruler-ORACC.csv` is taken from this [link](https://docs.google.com/spreadsheets/d/1QMtHFIp8hJZrBcU96mwFZ-UPZKWGRuIUWWdnEzWiTXg/edit#gid=309975620). We used this csv to add ruler for our data according to the key `id_text`. The last download is made on _August 3rd, 2023_.
 
